@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../artifacts"
+		},
+		{
+			"path": "../cache"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../ignition"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../test"
+		},
+		{
+			"path": "../typechain-types"
+		}
+	]
+}
